@@ -58,6 +58,8 @@ i'm especially interested in:
 
 - **resume-analysis platform**  
   uses ai and pdf processing to analyze and extract resume information
+  in collaboration with a student we made the website application where I handle the frontend, QA Testing, and billing:
+  https://plsgetajob.com/
 
 ---
 
