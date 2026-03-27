@@ -2,11 +2,9 @@
 
 # hey, i'm mario
 
-### computer science student @ georgia tech
+**CS @ Georgia Tech**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=building+things+that+think;turning+ideas+into+intelligent+software;ai+%E2%80%A2+ml+%E2%80%A2+game+dev+%E2%80%A2+full-stack)](https://github.com/MarioEsquivelIII)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=building+things+that+think;turning+ideas+into+intelligent+software;ai+%E2%80%A2+ml+%E2%80%A2+game+dev+%E2%80%A2+full-stack)](https://github.com/MarioEsquivelIII)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marioesquiveliii.github.io/my-portfolio-website/#about)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-esquivel-iii-9b6900239)
@@ -16,12 +14,10 @@
 
 ---
 
-### `> whoami`
-
-I'm an aspiring software engineer and CS student at **Georgia Tech** who loves building practical and creative software. I'm driven by curiosity and always looking for the next challenge — whether that's training a model, shipping a full-stack app, or designing an interactive experience.
+I'm an aspiring software engineer who loves building practical and creative software — whether that's training a model, shipping a full-stack app, or designing an interactive experience.
 
 <details>
-<summary><b>what i'm into right now</b></summary>
+<summary><b>what i'm focused on</b></summary>
 <br/>
 
 - AI-powered tools and automation projects
@@ -37,12 +33,28 @@ I'm an aspiring software engineer and CS student at **Georgia Tech** who loves b
 
 <div align="center">
 
-| | |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Frameworks** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -50,17 +62,21 @@ I'm an aspiring software engineer and CS student at **Georgia Tech** who loves b
 
 ## featured projects
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-<a href="https://github.com/MarioEsquivelIII/Kronos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioEsquivelIII&repo=Kronos&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
+### [Kronos](https://github.com/MarioEsquivelIII/Kronos)
+AI-powered calendar builder that turns natural-language descriptions into structured, editable weekly schedules. Describe your ideal week and Kronos generates it — then drag, resize, and refine with follow-up prompts.
 
-</div>
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-> **Kronos** — AI-powered calendar builder that turns natural-language descriptions into structured, editable weekly schedules. Built with Next.js, TypeScript, Supabase, and OpenAI/Anthropic APIs. Features drag-and-drop editing, iterative refinement via follow-up prompts, and validated AI schedule generation with Zod.
-
-<br/>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -95,12 +111,7 @@ Uses AI and PDF processing to analyze and extract resume information. Built coll
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MarioEsquivelIII&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioEsquivelIII&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false" height="180" />
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MarioEsquivelIII&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarioEsquivelIII&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://github.com/MarioEsquivelIII)
 
 </div>
 
