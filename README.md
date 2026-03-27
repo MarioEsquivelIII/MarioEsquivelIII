@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mario%20Esquivel%20III&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=CS%20@%20Georgia%20Tech%20%E2%80%A2%20AI%20%26%20ML%20%E2%80%A2%20Game%20Dev%20%E2%80%A2%20Full-Stack&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+# hey, i'm mario
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=building+things+that+think+%F0%9F%A7%A0;turning+ideas+into+intelligent+software+%F0%9F%9A%80)](https://git.io/typing-svg)
+### computer science student @ georgia tech
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=building+things+that+think;turning+ideas+into+intelligent+software;ai+%E2%80%A2+ml+%E2%80%A2+game+dev+%E2%80%A2+full-stack)](https://github.com/MarioEsquivelIII)
 
 <br/>
 
@@ -108,6 +108,6 @@ Uses AI and PDF processing to analyze and extract resume information. Built coll
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=MarioEsquivelIII&style=flat-square&color=1f6feb" alt="profile views" />
 
 </div>
