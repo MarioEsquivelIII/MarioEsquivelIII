@@ -1,10 +1,10 @@
 <div align="center">
 
-# hey, i'm mario
+# HEY, I'M MARIO
 
-**CS @ Georgia Tech**
+**CS @ GEORGIA TECH**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=building+things+that+think;turning+ideas+into+intelligent+software;ai+%E2%80%A2+ml+%E2%80%A2+game+dev+%E2%80%A2+full-stack)](https://github.com/MarioEsquivelIII)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=BUILDING+THINGS+THAT+THINK;TURNING+IDEAS+INTO+INTELLIGENT+SOFTWARE;AI+%E2%80%A2+ML+%E2%80%A2+GAME+DEV+%E2%80%A2+FULL-STACK)](https://github.com/MarioEsquivelIII)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marioesquiveliii.github.io/my-portfolio-website/#about)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-esquivel-iii-9b6900239)
@@ -14,22 +14,22 @@
 
 ---
 
-I'm an aspiring software engineer who loves building practical and creative software — whether that's training a model, shipping a full-stack app, or designing an interactive experience.
+AN ASPIRING SOFTWARE ENGINEER WHO LOVES BUILDING PRACTICAL AND CREATIVE SOFTWARE — WHETHER THAT'S TRAINING A MODEL, SHIPPING A FULL-STACK APP, OR DESIGNING AN INTERACTIVE EXPERIENCE.
 
 <details>
-<summary><b>what i'm focused on</b></summary>
+<summary><b>WHAT I'M FOCUSED ON</b></summary>
 <br/>
 
-- AI-powered tools and automation projects
-- Growing my machine learning skills through projects and coursework
-- Exploring game development and interactive systems
-- Becoming a stronger backend and full-stack engineer
+- AI-POWERED TOOLS AND AUTOMATION PROJECTS
+- GROWING MY MACHINE LEARNING SKILLS THROUGH PROJECTS AND COURSEWORK
+- EXPLORING GAME DEVELOPMENT AND INTERACTIVE SYSTEMS
+- BECOMING A STRONGER BACKEND AND FULL-STACK ENGINEER
 
 </details>
 
 ---
 
-## tech stack
+## TECH STACK
 
 <div align="center">
 
@@ -60,14 +60,14 @@ I'm an aspiring software engineer who loves building practical and creative soft
 
 ---
 
-## featured projects
+## FEATURED PROJECTS
 
 <table>
 <tr>
 <td>
 
-### [Kronos](https://github.com/MarioEsquivelIII/Kronos)
-AI-powered calendar builder that turns natural-language descriptions into structured, editable weekly schedules. Describe your ideal week and Kronos generates it — then drag, resize, and refine with follow-up prompts.
+### [KRONOS](https://github.com/MarioEsquivelIII/Kronos)
+AI-POWERED CALENDAR BUILDER THAT TURNS NATURAL-LANGUAGE DESCRIPTIONS INTO STRUCTURED, EDITABLE WEEKLY SCHEDULES. DESCRIBE YOUR IDEAL WEEK AND KRONOS GENERATES IT — THEN DRAG, RESIZE, AND REFINE WITH FOLLOW-UP PROMPTS.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -82,8 +82,8 @@ AI-powered calendar builder that turns natural-language descriptions into struct
 <tr>
 <td>
 
-### AI Agent Research Position Finder
-Helps students find undergraduate research opportunities more efficiently using intelligent search and matching.
+### AI AGENT RESEARCH POSITION FINDER
+HELPS STUDENTS FIND UNDERGRADUATE RESEARCH OPPORTUNITIES MORE EFFICIENTLY USING INTELLIGENT SEARCH AND MATCHING.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -96,8 +96,8 @@ Helps students find undergraduate research opportunities more efficiently using 
 <tr>
 <td>
 
-### Active Tab Split
-A Chrome extension for split-tab multitasking and productivity — browse two pages side by side without leaving your browser.
+### ACTIVE TAB SPLIT
+A CHROME EXTENSION FOR SPLIT-TAB MULTITASKING AND PRODUCTIVITY — BROWSE TWO PAGES SIDE BY SIDE WITHOUT LEAVING YOUR BROWSER.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
@@ -106,24 +106,9 @@ A Chrome extension for split-tab multitasking and productivity — browse two pa
 </tr>
 </table>
 
-<table>
-<tr>
-<td>
-
-### Resume Analysis Platform
-Uses AI and PDF processing to analyze and extract resume information. Built collaboratively — handling frontend, QA testing, and billing.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
-![PDF](https://img.shields.io/badge/PDF_Processing-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)
-
-</td>
-</tr>
-</table>
-
 ---
 
-## github stats
+## GITHUB STATS
 
 <div align="center">
 
