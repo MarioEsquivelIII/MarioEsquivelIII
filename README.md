@@ -67,10 +67,11 @@ An aspiring software engineer who loves building practical and creative software
 <td>
 
 ### [Kronos](https://github.com/MarioEsquivelIII/Kronos)
-AI-powered calendar builder that turns natural-language descriptions into structured, editable weekly schedules. Describe your ideal week and Kronos generates it — then drag, resize, and refine with follow-up prompts.
+AI-powered calendar application that converts natural-language user input into structured, editable weekly schedules. Features prompt-based refinement flows that let users iteratively update schedules through follow-up prompts or direct event edits, reducing manual planning effort by an estimated 70%. Full-stack infrastructure with Supabase authentication, persistent storage, revision tracking, and structured JSON validation.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
@@ -82,11 +83,13 @@ AI-powered calendar builder that turns natural-language descriptions into struct
 <tr>
 <td>
 
-### AI Agent Research Position Finder
-Helps students find undergraduate research opportunities more efficiently using intelligent search and matching.
+### [AI Agent Research Job Finder](https://github.com/MarioEsquivelIII/AI_Agent_Research_Position_Finder)
+Autonomous AI agent that discovers undergraduate research opportunities by searching university lab websites, scraping pages, and extracting faculty contact emails. Integrates LangChain tool-calling with Tavily search, custom web scrapers, and regex-based email extraction to automatically gather and structure research listings. Improved reliability and reduced search latency by over 80% through Pydantic structured outputs and hard tool-call limits.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily_API-000?style=flat-square&logo=searchengineland&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-333?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -96,9 +99,11 @@ Helps students find undergraduate research opportunities more efficiently using 
 <tr>
 <td>
 
-### Active Tab Split
-A Chrome extension for split-tab multitasking and productivity — browse two pages side by side without leaving your browser.
+### [Split View](https://github.com/MarioEsquivelIII/active-tab-split)
+Chrome extension used by 200+ users that splits a browser tab into multiple resizable panels, improving multitasking efficiency. Features responsive layouts using CSS Grid and keyboard shortcuts, reducing user interaction friction. Designed with a privacy-first architecture with zero data collection or external server dependencies.
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
