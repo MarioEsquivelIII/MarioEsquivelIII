@@ -80,27 +80,43 @@ AI-powered calendar builder that turns natural-language descriptions into struct
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
 ### AI Agent Research Position Finder
 Helps students find undergraduate research opportunities more efficiently using intelligent search and matching.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
+
 </td>
-<td width="50%">
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 ### Active Tab Split
 A Chrome extension for split-tab multitasking and productivity — browse two pages side by side without leaving your browser.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td width="50%">
+<td>
 
 ### Resume Analysis Platform
 Uses AI and PDF processing to analyze and extract resume information. Built collaboratively — handling frontend, QA testing, and billing.
 
-</td>
-<td width="50%">
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF_Processing-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)
+
 </td>
 </tr>
 </table>
