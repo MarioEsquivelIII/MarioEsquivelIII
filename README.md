@@ -66,7 +66,7 @@ An aspiring software engineer who loves building practical and creative software
 <tr>
 <td>
 
-### [Kronos](https://github.com/MarioEsquivelIII/Kronos)
+### [Noted](https://github.com/MarioEsquivelIII/Kronos)
 AI-powered calendar application that converts natural-language user input into structured, editable weekly schedules. Features prompt-based refinement flows that let users iteratively update schedules through follow-up prompts or direct event edits, reducing manual planning effort by an estimated 70%. Full-stack infrastructure with Supabase authentication, persistent storage, revision tracking, and structured JSON validation.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
