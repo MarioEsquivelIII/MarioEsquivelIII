@@ -79,14 +79,6 @@ AI-powered calendar application that converts natural-language user input into s
 </tr>
 </table>
 
-<table>
-<tr>
-<td>
-
-<table>
-<tr>
-<td>
-
 ### [YouTubeTrades](https://github.com/MarioEsquivelIII/YouTubeTrades)
 
 Stock-hype dashboard that analyzes recent finance YouTube videos, descriptions, view counts, and spoken transcripts to identify and rank mentioned stocks by aggregate audience exposure. Integrates Finnhub live market data with channel management, price and trend filters, hype and price-movement sorting, bounded concurrency, and multi-layer caching to improve performance and stay within API rate limits.
