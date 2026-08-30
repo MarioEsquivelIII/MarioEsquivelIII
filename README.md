@@ -83,13 +83,20 @@ AI-powered calendar application that converts natural-language user input into s
 <tr>
 <td>
 
-### [AI Agent Research Job Finder](https://github.com/MarioEsquivelIII/AI_Agent_Research_Position_Finder)
-Autonomous AI agent that discovers undergraduate research opportunities by searching university lab websites, scraping pages, and extracting faculty contact emails. Integrates LangChain tool-calling with Tavily search, custom web scrapers, and regex-based email extraction to automatically gather and structure research listings. Improved reliability and reduced search latency by over 80% through Pydantic structured outputs and hard tool-call limits.
+<table>
+<tr>
+<td>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Tavily](https://img.shields.io/badge/Tavily_API-000?style=flat-square&logo=searchengineland&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-333?style=flat-square&logo=python&logoColor=white)
+### [YouTubeTrades](https://github.com/MarioEsquivelIII/YouTubeTrades)
+
+Stock-hype dashboard that analyzes recent finance YouTube videos, descriptions, view counts, and spoken transcripts to identify and rank mentioned stocks by aggregate audience exposure. Integrates Finnhub live market data with channel management, price and trend filters, hype and price-movement sorting, bounded concurrency, and multi-layer caching to improve performance and stay within API rate limits.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![Finnhub](https://img.shields.io/badge/Finnhub-000000?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -99,13 +106,14 @@ Autonomous AI agent that discovers undergraduate research opportunities by searc
 <tr>
 <td>
 
-### [Split View](https://github.com/MarioEsquivelIII/active-tab-split)
-Chrome extension used by 200+ users that splits a browser tab into multiple resizable panels, improving multitasking efficiency. Features responsive layouts using CSS Grid and keyboard shortcuts, reducing user interaction friction. Designed with a privacy-first architecture with zero data collection or external server dependencies.
+### [Brain Tumor Neural Network Classifier](https://github.com/MarioEsquivelIII/Brain-Tumor-Neural-Network-Classifier)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+Multi-class brain MRI classification pipeline built with PyTorch and transfer learning using a pretrained ResNet18 model to distinguish glioma, meningioma, pituitary tumor, and no-tumor scans across approximately 7,000 labeled images. Includes image preprocessing and augmentation, training and validation workflows, CUDA detection, best-model checkpointing, loss and accuracy visualization, and per-class confidence predictions for individual MRI scans.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![torchvision](https://img.shields.io/badge/torchvision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ResNet18](https://img.shields.io/badge/ResNet18-Neural_Network-8A2BE2?style=flat-square)
 
 </td>
 </tr>
